@@ -1,13 +1,10 @@
-BucketList---------------------------------------------------------
-List of countries pulled from the API http://localhost:3000/bucketlist
-Each country as a button that when clicked will add the index of the country to mongo database Countries, bucketlist...
+Mongo Bank---------------------------------------------------------
+Basic bank JavaScript application that saves data to mongo database. New accounts can be added via the browser and updated to the screen and added to the data base
 -------------------------------------------------------------------
-Time to build: 1.5 hrs
-Current state: very limited
+Time to build: ???
+Current state: Working
 Enhancements required:  
-- add country to database
-- read from database
-- have boolean state for country so button can be switched on/off should user change mind
+- remove accounts
 
 To get this running...
 
